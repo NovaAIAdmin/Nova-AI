@@ -1,2 +1,1 @@
-npm run build
-# Output will be in dist/ folder
+npm install @stripe/stripe-js
